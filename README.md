@@ -1,4 +1,4 @@
-# nan2tetris HACK Assembler
+# nand2tetris HACK Assembler
 
 This is a .NET C# implementation of the nand2tetris Hack Plaform Assembler.
 It takes `.asm` (Hack assembly code) file as an input and turns it into a 
