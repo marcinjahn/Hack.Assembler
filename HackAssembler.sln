@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackAssembler.Lib", "HackAssembler.Lib\HackAssembler.Lib.csproj", "{E3FA4AC6-13D3-40A6-9A53-4CCDBC8B9F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackAssembler.Lib.Tests", "HackAssembler.Lib.Tests\HackAssembler.Lib.Tests.csproj", "{DBE1B479-53A9-4487-BD0A-44C2036B6209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackAssembler.AssemblerCLI", "HackAssembler.AssemblerCLI\HackAssembler.AssemblerCLI.csproj", "{07BB139B-BC9B-4CA9-9487-D20B93EA1C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3FA4AC6-13D3-40A6-9A53-4CCDBC8B9F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FA4AC6-13D3-40A6-9A53-4CCDBC8B9F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FA4AC6-13D3-40A6-9A53-4CCDBC8B9F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FA4AC6-13D3-40A6-9A53-4CCDBC8B9F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE1B479-53A9-4487-BD0A-44C2036B6209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE1B479-53A9-4487-BD0A-44C2036B6209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE1B479-53A9-4487-BD0A-44C2036B6209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE1B479-53A9-4487-BD0A-44C2036B6209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07BB139B-BC9B-4CA9-9487-D20B93EA1C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BB139B-BC9B-4CA9-9487-D20B93EA1C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BB139B-BC9B-4CA9-9487-D20B93EA1C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BB139B-BC9B-4CA9-9487-D20B93EA1C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
